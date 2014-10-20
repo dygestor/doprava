@@ -31,7 +31,14 @@ namespace MHD
             Name = name;
             Url = string.Empty;
             CustomInfo = string.Empty;
+            Departures = new Dictionary<int, Dictionary<string, List<string>>>();
         }
+
+        public Stop()
+        {
+            Departures = new Dictionary<int, Dictionary<string, List<string>>>();
+        }
+
         #endregion
 
         #region Accessors

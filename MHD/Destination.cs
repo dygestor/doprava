@@ -12,10 +12,9 @@ namespace MHD
         string _name;
         List<Stop> _stops;
 
-        public Destination(string name)
+        public Destination()
         {
             Stops = new List<Stop>();
-            Name = name;
         }
 
         public Destination(HtmlNode node)
