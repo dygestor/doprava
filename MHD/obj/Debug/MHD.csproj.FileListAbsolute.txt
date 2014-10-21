@@ -8,3 +8,6 @@ C:\Users\anx00278\Documents\Visual Studio 2012\Projects\MHD\MHD\obj\Debug\MHD.Pr
 C:\Users\anx00278\Documents\Visual Studio 2012\Projects\MHD\MHD\obj\Debug\MHD.csproj.GenerateResource.Cache
 C:\Users\anx00278\Documents\Visual Studio 2012\Projects\MHD\MHD\bin\Debug\Newtonsoft.Json.dll
 C:\Users\anx00278\Documents\Visual Studio 2012\Projects\MHD\MHD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anx00278\Documents\Visual Studio 2012\Projects\doprava\MHD\bin\Debug\MHD.exe.config
+C:\Users\anx00278\Documents\Visual Studio 2012\Projects\doprava\MHD\obj\Debug\MHD.exe
+C:\Users\anx00278\Documents\Visual Studio 2012\Projects\doprava\MHD\obj\Debug\MHD.pdb
